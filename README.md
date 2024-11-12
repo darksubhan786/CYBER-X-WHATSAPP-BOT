@@ -24,6 +24,10 @@
 
 1. Scan QR - [Click here](https://cyber-x-qr-3-0.onrender.com)
 
+
+ qr https://vscode.dev/github/darksubhan786/vscode/blob/main?editSessionId=021806e6-84f1-4a4e-96c8-cbbbaf219977&continueOn=1
+
+
 2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
 
 3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
